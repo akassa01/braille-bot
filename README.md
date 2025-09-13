@@ -131,5 +131,3 @@ Optional: specify a serial port (default: `/dev/tty.usbmodem1101`)
 MIT License – feel free to use, modify, and distribute.
 
 ---
-
-Do you want me to also add **example screenshots and a usage demo section** to make it GitHub-ready, or keep it lean and technical?
